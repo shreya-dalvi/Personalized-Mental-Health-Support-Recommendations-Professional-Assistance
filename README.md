@@ -90,6 +90,7 @@ Technology (ICAIT), Adichunchanagiri Institute of Technology, Karnataka
 ![System Architecture](assets/diagrams/system_architecture.png)
 
 The core pipeline:
+
 ![Core Pipeline](assets/diagrams/core_pipeline.png)
 ---
 
