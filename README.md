@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- # 🧠 MindMend-->
-![System Architecture](assets/logo.png)
+![Logo](assets/diagrams/logo.png)
 ### Personalized Mental Health Support, Recommendations & Professional Assistance
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
