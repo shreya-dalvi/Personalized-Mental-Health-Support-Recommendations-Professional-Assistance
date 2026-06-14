@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🧠 MindMend
+<!-- # 🧠 MindMend-->
+![System Architecture](assets/logo.png)
 ### Personalized Mental Health Support, Recommendations & Professional Assistance
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
@@ -88,6 +89,8 @@ Technology (ICAIT), Adichunchanagiri Institute of Technology, Karnataka
 
 ![System Architecture](assets/diagrams/system_architecture.png)
 
+The core pipeline:
+![Core Pipeline](assets/diagrams/core_pipeline.png)
 ---
 
 ## 🧮 ML Models & Algorithms
@@ -138,7 +141,7 @@ accuracy, interpretability, and computational efficiency.
 | Frontend | HTML, CSS, JavaScript |
 
 ---
-
+<!--
 ## 📸 Screenshots
 
 ### Landing Page
@@ -176,7 +179,7 @@ accuracy, interpretability, and computational efficiency.
 
 ### Model Accuracy Comparison
 ![Model Accuracy](assets/screenshots/model_accuracy.png)
-
+-->
 ---
 
 ## 📐 System Design Diagrams
@@ -206,7 +209,7 @@ accuracy, interpretability, and computational efficiency.
 ![Use Case](assets/diagrams/use_case_diagram.png)
 
 ### SOCME
-![SOCME](assets/socme.png)
+![SOCME](assets/diagrams/socme.png)
 
 </details>
 
