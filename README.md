@@ -2,15 +2,15 @@
 
 # 
 
-# \# 🧠 MindMend
+## 🧠 MindMend
 
-# \### Personalized Mental Health Support, Recommendations \& Professional Assistance
+#### Personalized Mental Health Support, Recommendations \& Professional Assistance
 
 # 
 
-# !\[Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square\&logo=python)
+# ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square\&logo=python)
 
-# !\[Flask](https://img.shields.io/badge/Flask-Backend-black?style=flat-square\&logo=flask)
+# ![Flask](https://img.shields.io/badge/Flask-Backend-black?style=flat-square\&logo=flask)
 
 # !\[TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=flat-square\&logo=tensorflow)
 
